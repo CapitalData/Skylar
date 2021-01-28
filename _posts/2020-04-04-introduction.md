@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Justine Chia 
+title: Skylar Chadwick
 ---
 
-JSkylar Chadwick is a Content Strategist for Austin Capital Data in Austin, Texas with a background in Biotechnology and children’s development. 
+Skylar Chadwick is a Content Strategist for Austin Capital Data in Austin, Texas with a background in Biotechnology and children’s development. 
 
 -----
 
